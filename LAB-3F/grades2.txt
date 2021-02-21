@@ -1,0 +1,14 @@
+Roll No   Name                           Crs   MdSsFnDg
+=======================================================
+BCSF01M001Hammad Khan                    ITC   222131CS
+BCSF01M001Hammad Khan                    PF    141525CS
+BCSF01M001Hammad Khan                    DLD   201822CS
+BITF01M003Younas Ahmad                   ITC   302229IT
+BITF01M003Younas Ahmad                   PF    342530IT
+BITF01M003Younas Ahmad                   DLD   101510IT
+BSEF01M005Riffat Kaleem                  ITC   332033SE
+BSEF01M005Riffat Kaleem                  PF    261135SE
+BSEF01M005Riffat Kaleem                  DLD   302438SE
+BITF01M012Barkat Jan                     ITC   251834IT
+BITF01M012Barkat Jan                     PF    192028IT
+BITF01M012Barkat Jan                     DLD   282134IT

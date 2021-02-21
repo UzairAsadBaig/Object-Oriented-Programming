@@ -1,0 +1,14 @@
+Roll No    Name                            Crs    Md Ss Fn Dg
+========== =============================== ====== == == == ==
+BCSF01M001 Hammad Khan                     ITC    22 21 31 CS
+BCSF01M001 Hammad Khan                     PF     14 15 25 CS
+BCSF01M001 Hammad Khan                     DLD    20 18 22 CS
+BITF01M003 Younas Ahmad                    ITC    30 22 29 IT
+BITF01M003 Younas Ahmad                    PF     34 25 30 IT
+BITF01M003 Younas Ahmad                    DLD    10 15 10 IT
+BSEF01M005 Riffat Kaleem                   ITC    33 20 33 SE
+BSEF01M005 Riffat Kaleem                   PF     26 11 35 SE
+BSEF01M005 Riffat Kaleem                   DLD    30 24 38 SE
+BITF01M012 Barkat Jan                      ITC    25 18 34 IT
+BITF01M012 Barkat Jan                      PF     19 20 28 IT
+BITF01M012 Barkat Jan                      DLD    28 21 34 IT

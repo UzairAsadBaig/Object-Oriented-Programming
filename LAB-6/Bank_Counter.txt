@@ -1,0 +1,675 @@
+Queue is empty at time 0
+Queue is empty at time 1
+Queue is empty at time 2
+Queue is empty at time 3
+Queue is empty at time 4
+Queue is empty at time 5
+Mahdy has arrived and entered in the queue at time 6
+Deen has arrived and entered in the queue at time 7
+Muhib has arrived and entered in the queue at time 8
+Deen got free at time 9
+Muhib is being served at time 9
+The queue is empty got free at time 10
+ is being served at time 10
+Inayat has arrived and entered in the queue at time 11
+The queue is empty got free at time 12
+ is being served at time 12
+Yameen has arrived and entered in the queue at time 13
+Yameen is being served at time 14
+Yameen is being served at time 15
+The queue is empty got free at time 16
+ is being served at time 16
+Queue is empty at time 17
+Faiq has arrived and entered in the queue at time 18
+Mudhakkir has arrived and entered in the queue at time 19
+Bassam has arrived and entered in the queue at time 20
+Masum has arrived and entered in the queue at time 21
+Faiq is being served at time 22
+Dabbah has arrived and entered in the queue at time 23
+Faiq is being served at time 24
+Faiq is being served at time 25
+Ismah has arrived and entered in the queue at time 26
+Faiq is being served at time 27
+Faiq is being served at time 28
+Mudhakkir got free at time 29
+Bassam is being served at time 29
+Mufti has arrived and entered in the queue at time 30
+Faiz has arrived and entered in the queue at time 31
+Bassam is being served at time 32
+Mawsil has arrived and entered in the queue at time 33
+Gul has arrived and entered in the queue at time 34
+Bassam is being served at time 35
+Bassam is being served at time 36
+Dildar has arrived and entered in the queue at time 37
+Masum got free at time 38
+Dabbah is being served at time 38
+Khirash has arrived and entered in the queue at time 39
+Dabbah is being served at time 40
+Masheer has arrived and entered in the queue at time 41
+Dabbah is being served at time 42
+Rehmat has arrived and entered in the queue at time 43
+Masrur has arrived and entered in the queue at time 44
+Ismah got free at time 45
+Mufti is being served at time 45
+Talha has arrived and entered in the queue at time 46
+Faiz got free at time 47
+Mawsil is being served at time 47
+Mawsil is being served at time 48
+Mawsil is being served at time 49
+Mawsil is being served at time 50
+Mawsil is being served at time 51
+Mawsil is being served at time 52
+Intizar has arrived and entered in the queue at time 53
+Awn has arrived and entered in the queue at time 54
+Gul got free at time 55
+Dildar is being served at time 55
+Pasha has arrived and entered in the queue at time 56
+Ismah has arrived and entered in the queue at time 57
+Dildar is being served at time 58
+Dildar is being served at time 59
+Dildar is being served at time 60
+Khirash got free at time 61
+Masheer is being served at time 61
+Rehmat got free at time 62
+Masrur is being served at time 62
+Ghaith has arrived and entered in the queue at time 63
+Fudail has arrived and entered in the queue at time 64
+Masrur is being served at time 65
+Talha got free at time 66
+Intizar is being served at time 66
+Intizar is being served at time 67
+Intizar is being served at time 68
+Intizar is being served at time 69
+Intizar is being served at time 70
+Marufirah has arrived and entered in the queue at time 71
+Awn got free at time 72
+Pasha is being served at time 72
+Jawdat has arrived and entered in the queue at time 73
+Ismah got free at time 74
+Ghaith is being served at time 74
+Fudail got free at time 75
+Marufirah is being served at time 75
+Saami has arrived and entered in the queue at time 76
+Hamdi has arrived and entered in the queue at time 77
+Tayyeb has arrived and entered in the queue at time 78
+Marufirah is being served at time 79
+Sadeem has arrived and entered in the queue at time 80
+Gulfam has arrived and entered in the queue at time 81
+Qaaid has arrived and entered in the queue at time 82
+Jawdat got free at time 83
+Saami is being served at time 83
+Ghiyaath has arrived and entered in the queue at time 84
+Hamdi got free at time 85
+Tayyeb is being served at time 85
+Hadid has arrived and entered in the queue at time 86
+Tayyeb is being served at time 87
+Tayyeb is being served at time 88
+Tayyeb is being served at time 89
+Asbagh has arrived and entered in the queue at time 90
+Dihyah has arrived and entered in the queue at time 91
+Tayyeb is being served at time 92
+Jameel has arrived and entered in the queue at time 93
+Tayyeb is being served at time 94
+Sadeem got free at time 95
+Gulfam is being served at time 95
+Gulfam is being served at time 96
+Jabal has arrived and entered in the queue at time 97
+Wahb has arrived and entered in the queue at time 98
+Gulfam is being served at time 99
+Fakeeh has arrived and entered in the queue at time 100
+Qaaid got free at time 101
+Ghiyaath is being served at time 101
+Ghiyaath is being served at time 102
+Ihsaan has arrived and entered in the queue at time 103
+Sadik has arrived and entered in the queue at time 104
+Maahi has arrived and entered in the queue at time 105
+Dabbah has arrived and entered in the queue at time 106
+Ghiyaath is being served at time 107
+Ghiyaath is being served at time 108
+Muntasir has arrived and entered in the queue at time 109
+Ghiyaath is being served at time 110
+Hadid got free at time 111
+Asbagh is being served at time 111
+Asbagh is being served at time 112
+Asbagh is being served at time 113
+Barr has arrived and entered in the queue at time 114
+Sahir has arrived and entered in the queue at time 115
+Asbagh is being served at time 116
+Faeq has arrived and entered in the queue at time 117
+Imaad Udeen has arrived and entered in the queue at time 118
+Ridha has arrived and entered in the queue at time 119
+Asbagh is being served at time 120
+Naveed has arrived and entered in the queue at time 121
+Asbagh is being served at time 122
+Faaris has arrived and entered in the queue at time 123
+Dihyah got free at time 124
+Jameel is being served at time 124
+Jameel is being served at time 125
+Kafi has arrived and entered in the queue at time 126
+Fahad has arrived and entered in the queue at time 127
+Jameel is being served at time 128
+Jameel is being served at time 129
+Jabal got free at time 130
+Wahb is being served at time 130
+Fakeeh got free at time 131
+Ihsaan is being served at time 131
+Artah has arrived and entered in the queue at time 132
+Ihsaan is being served at time 133
+Ihsaan is being served at time 134
+Sadik got free at time 135
+Maahi is being served at time 135
+Hammam has arrived and entered in the queue at time 136
+Maahi is being served at time 137
+Dabbah got free at time 138
+Muntasir is being served at time 138
+Jawdat has arrived and entered in the queue at time 139
+Azzaam has arrived and entered in the queue at time 140
+Barr got free at time 141
+Sahir is being served at time 141
+Baasit has arrived and entered in the queue at time 142
+Rushd has arrived and entered in the queue at time 143
+Faeq got free at time 144
+Imaad Udeen is being served at time 144
+Imaad Udeen is being served at time 145
+Ridha got free at time 146
+Naveed is being served at time 146
+Naveed is being served at time 147
+Naveed is being served at time 148
+Daif has arrived and entered in the queue at time 149
+Fidaa has arrived and entered in the queue at time 150
+Naveed is being served at time 151
+Naveed is being served at time 152
+Faaris got free at time 153
+Kafi is being served at time 153
+Qadir has arrived and entered in the queue at time 154
+Kafi is being served at time 155
+Musad has arrived and entered in the queue at time 156
+Gulfam has arrived and entered in the queue at time 157
+Ghutayf has arrived and entered in the queue at time 158
+Fahad got free at time 159
+Artah is being served at time 159
+Hammam got free at time 160
+Jawdat is being served at time 160
+Jawdat is being served at time 161
+Zashil has arrived and entered in the queue at time 162
+Azzaam got free at time 163
+Baasit is being served at time 163
+Baasit is being served at time 164
+Haafil has arrived and entered in the queue at time 165
+Rushd got free at time 166
+Daif is being served at time 166
+Nahi has arrived and entered in the queue at time 167
+Daif is being served at time 168
+Fidaa got free at time 169
+Qadir is being served at time 169
+Qadir is being served at time 170
+Bahiy Udeen has arrived and entered in the queue at time 171
+Qadir is being served at time 172
+Musad got free at time 173
+Gulfam is being served at time 173
+Zoraiz has arrived and entered in the queue at time 174
+Najm Udeen has arrived and entered in the queue at time 175
+Salah Udeen has arrived and entered in the queue at time 176
+Daleel has arrived and entered in the queue at time 177
+Salah Udeen has arrived and entered in the queue at time 178
+Gulfam is being served at time 179
+Jumanah has arrived and entered in the queue at time 180
+Barr has arrived and entered in the queue at time 181
+Gulfam is being served at time 182
+Gulfam is being served at time 183
+Ghaith has arrived and entered in the queue at time 184
+Gulfam is being served at time 185
+Mansour has arrived and entered in the queue at time 186
+Gulfam is being served at time 187
+Gulfam is being served at time 188
+Gulfam is being served at time 189
+Gulfam is being served at time 190
+Gulfam is being served at time 191
+Awwab has arrived and entered in the queue at time 192
+Gulfam is being served at time 193
+Gulfam is being served at time 194
+Muqaddas has arrived and entered in the queue at time 195
+Ilyaas has arrived and entered in the queue at time 196
+Ihab has arrived and entered in the queue at time 197
+Gulfam is being served at time 198
+Gulfam is being served at time 199
+Gulfam is being served at time 200
+Gulfam is being served at time 201
+Ghutayf got free at time 202
+Zashil is being served at time 202
+Jafar has arrived and entered in the queue at time 203
+Haafil got free at time 204
+Nahi is being served at time 204
+Nahi is being served at time 205
+Nahi is being served at time 206
+Bahiy Udeen got free at time 207
+Zoraiz is being served at time 207
+Zoraiz is being served at time 208
+Ramalaan has arrived and entered in the queue at time 209
+Zoraiz is being served at time 210
+Zoraiz is being served at time 211
+Salah Udeen has arrived and entered in the queue at time 212
+Zoraiz is being served at time 213
+Rukanah has arrived and entered in the queue at time 214
+Zoraiz is being served at time 215
+Bandar has arrived and entered in the queue at time 216
+Najm Udeen got free at time 217
+Salah Udeen is being served at time 217
+Anna has arrived and entered in the queue at time 218
+Iskafi has arrived and entered in the queue at time 219
+Salah Udeen is being served at time 220
+Aseel has arrived and entered in the queue at time 221
+Salah Udeen is being served at time 222
+Fuad has arrived and entered in the queue at time 223
+Salah Udeen is being served at time 224
+Kamal has arrived and entered in the queue at time 225
+Rustam has arrived and entered in the queue at time 226
+Ihsaan has arrived and entered in the queue at time 227
+Kabir has arrived and entered in the queue at time 228
+Salah Udeen is being served at time 229
+Salah Udeen is being served at time 230
+Salah Udeen is being served at time 231
+Salah Udeen is being served at time 232
+Salah Udeen is being served at time 233
+Salah Udeen is being served at time 234
+Qaasim has arrived and entered in the queue at time 235
+Iqmal has arrived and entered in the queue at time 236
+Javed has arrived and entered in the queue at time 237
+Badi has arrived and entered in the queue at time 238
+Salah Udeen is being served at time 239
+Salah Udeen is being served at time 240
+Salah Udeen is being served at time 241
+Daleel got free at time 242
+Salah Udeen is being served at time 242
+Ihab has arrived and entered in the queue at time 243
+Salah Udeen is being served at time 244
+Salah Udeen is being served at time 245
+Uhban has arrived and entered in the queue at time 246
+Salah Udeen is being served at time 247
+Salah Udeen is being served at time 248
+Manzoor has arrived and entered in the queue at time 249
+Salah Udeen is being served at time 250
+Raees has arrived and entered in the queue at time 251
+Salah Udeen is being served at time 252
+Azb has arrived and entered in the queue at time 253
+Hadrami has arrived and entered in the queue at time 254
+Raza has arrived and entered in the queue at time 255
+Salah Udeen is being served at time 256
+Salah Udeen is being served at time 257
+Jumanah got free at time 258
+Barr is being served at time 258
+Barr is being served at time 259
+Barr is being served at time 260
+Deen has arrived and entered in the queue at time 261
+Misbaah has arrived and entered in the queue at time 262
+Wabisah has arrived and entered in the queue at time 263
+Barr is being served at time 264
+Sayf has arrived and entered in the queue at time 265
+Raheel has arrived and entered in the queue at time 266
+Faiq has arrived and entered in the queue at time 267
+Ghaith got free at time 268
+Mansour is being served at time 268
+Mansour is being served at time 269
+Mansour is being served at time 270
+Mudhakkir has arrived and entered in the queue at time 271
+Mansour is being served at time 272
+Mansour is being served at time 273
+Awwab got free at time 274
+Muqaddas is being served at time 274
+Zafar has arrived and entered in the queue at time 275
+Qasid has arrived and entered in the queue at time 276
+Ilyaas got free at time 277
+Ihab is being served at time 277
+Nur has arrived and entered in the queue at time 278
+Ihab is being served at time 279
+Ihab is being served at time 280
+Mukhtaar has arrived and entered in the queue at time 281
+Raihaan has arrived and entered in the queue at time 282
+Jammaz  has arrived and entered in the queue at time 283
+Wahib has arrived and entered in the queue at time 284
+Jafar got free at time 285
+Ramalaan is being served at time 285
+Ramalaan is being served at time 286
+Salah Udeen got free at time 287
+Rukanah is being served at time 287
+Rukanah is being served at time 288
+Bandar got free at time 289
+Anna is being served at time 289
+Anna is being served at time 290
+Anna is being served at time 291
+Nahi has arrived and entered in the queue at time 292
+Maajid has arrived and entered in the queue at time 293
+Anna is being served at time 294
+Iskafi got free at time 295
+Aseel is being served at time 295
+Fuad got free at time 296
+Kamal is being served at time 296
+Kalam has arrived and entered in the queue at time 297
+Kamal is being served at time 298
+Kamal is being served at time 299
+Rustam got free at time 300
+Ihsaan is being served at time 300
+Kaamil has arrived and entered in the queue at time 301
+Ihsaan is being served at time 302
+Qaaid has arrived and entered in the queue at time 303
+Kabir got free at time 304
+Qaasim is being served at time 304
+Iqmal got free at time 305
+Javed is being served at time 305
+Javed is being served at time 306
+Sabeeh has arrived and entered in the queue at time 307
+Javed is being served at time 308
+Javed is being served at time 309
+Badi got free at time 310
+Ihab is being served at time 310
+Ruhani has arrived and entered in the queue at time 311
+Ihab is being served at time 312
+Khulayd has arrived and entered in the queue at time 313
+Ihab is being served at time 314
+Bassam has arrived and entered in the queue at time 315
+Ihab is being served at time 316
+Ihab is being served at time 317
+Uhban got free at time 318
+Manzoor is being served at time 318
+Raees got free at time 319
+Azb is being served at time 319
+Azb is being served at time 320
+Jaafar has arrived and entered in the queue at time 321
+Waiz has arrived and entered in the queue at time 322
+Azb is being served at time 323
+Azb is being served at time 324
+Hadrami got free at time 325
+Raza is being served at time 325
+Fakeeh has arrived and entered in the queue at time 326
+Deen got free at time 327
+Misbaah is being served at time 327
+Misbaah is being served at time 328
+Wabisah got free at time 329
+Sayf is being served at time 329
+Sayf is being served at time 330
+Sayf is being served at time 331
+Dawar has arrived and entered in the queue at time 332
+Riyadh has arrived and entered in the queue at time 333
+Sahel has arrived and entered in the queue at time 334
+Sayf is being served at time 335
+Sayf is being served at time 336
+Sayf is being served at time 337
+Raheel got free at time 338
+Faiq is being served at time 338
+Faiq is being served at time 339
+Faiq is being served at time 340
+Mudhakkir got free at time 341
+Zafar is being served at time 341
+Hyder has arrived and entered in the queue at time 342
+Qasid got free at time 343
+Nur is being served at time 343
+Mustafa has arrived and entered in the queue at time 344
+Nur is being served at time 345
+Nur is being served at time 346
+Mukhtaar got free at time 347
+Raihaan is being served at time 347
+Raihaan is being served at time 348
+Badr has arrived and entered in the queue at time 349
+Raihaan is being served at time 350
+Jammaz  got free at time 351
+Wahib is being served at time 351
+Juthamah has arrived and entered in the queue at time 352
+Wahib is being served at time 353
+Ikram has arrived and entered in the queue at time 354
+Wahib is being served at time 355
+Daif has arrived and entered in the queue at time 356
+Wahib is being served at time 357
+Wahib is being served at time 358
+Wahib is being served at time 359
+Mutayyib has arrived and entered in the queue at time 360
+Nahi got free at time 361
+Maajid is being served at time 361
+Maajid is being served at time 362
+Maajid is being served at time 363
+Maajid is being served at time 364
+Kalam got free at time 365
+Kaamil is being served at time 365
+Dhareef has arrived and entered in the queue at time 366
+Ghufran has arrived and entered in the queue at time 367
+Hadi has arrived and entered in the queue at time 368
+Kaamil is being served at time 369
+Arsh has arrived and entered in the queue at time 370
+Ghiyath has arrived and entered in the queue at time 371
+Batin has arrived and entered in the queue at time 372
+Khulayd has arrived and entered in the queue at time 373
+Kaamil is being served at time 374
+Kashef has arrived and entered in the queue at time 375
+Kaamil is being served at time 376
+Kaamil is being served at time 377
+Kaamil is being served at time 378
+Kaamil is being served at time 379
+Kaamil is being served at time 380
+Qaaid got free at time 381
+Sabeeh is being served at time 381
+Qarib has arrived and entered in the queue at time 382
+Sabeeh is being served at time 383
+Sabeeh is being served at time 384
+Ruhani got free at time 385
+Khulayd is being served at time 385
+Bassam got free at time 386
+Jaafar is being served at time 386
+Jaafar is being served at time 387
+Jaafar is being served at time 388
+Salik has arrived and entered in the queue at time 389
+Daanish has arrived and entered in the queue at time 390
+Jaafar is being served at time 391
+Tarannum has arrived and entered in the queue at time 392
+Jaafar is being served at time 393
+Jaafar is being served at time 394
+Waiz got free at time 395
+Fakeeh is being served at time 395
+Fakeeh is being served at time 396
+Fakeeh is being served at time 397
+Tulayb has arrived and entered in the queue at time 398
+Inayat has arrived and entered in the queue at time 399
+Fakeeh is being served at time 400
+Dawar got free at time 401
+Riyadh is being served at time 401
+Riyadh is being served at time 402
+Riyadh is being served at time 403
+Riyadh is being served at time 404
+Sahel got free at time 405
+Hyder is being served at time 405
+Aqil has arrived and entered in the queue at time 406
+Mustafa got free at time 407
+Badr is being served at time 407
+Badr is being served at time 408
+Badr is being served at time 409
+Badr is being served at time 410
+Badr is being served at time 411
+Badr is being served at time 412
+Raashid has arrived and entered in the queue at time 413
+Badr is being served at time 414
+Hamood has arrived and entered in the queue at time 415
+Badr is being served at time 416
+Badr is being served at time 417
+Badr is being served at time 418
+Hadi has arrived and entered in the queue at time 419
+Badr is being served at time 420
+Talib has arrived and entered in the queue at time 421
+Kaamil has arrived and entered in the queue at time 422
+Badr is being served at time 423
+Sahir has arrived and entered in the queue at time 424
+Badr is being served at time 425
+Juthamah got free at time 426
+Ikram is being served at time 426
+Ikram is being served at time 427
+Ikram is being served at time 428
+Ikram is being served at time 429
+Ikram is being served at time 430
+Daif got free at time 431
+Mutayyib is being served at time 431
+Mutayyib is being served at time 432
+Dhareef got free at time 433
+Ghufran is being served at time 433
+Muslim has arrived and entered in the queue at time 434
+Ghufran is being served at time 435
+Hadi got free at time 436
+Arsh is being served at time 436
+Ghiyath got free at time 437
+Batin is being served at time 437
+Faqir has arrived and entered in the queue at time 438
+Khulayd got free at time 439
+Kashef is being served at time 439
+Kashef is being served at time 440
+Qarib got free at time 441
+Salik is being served at time 441
+Salik is being served at time 442
+Asil has arrived and entered in the queue at time 443
+Rayyan has arrived and entered in the queue at time 444
+Daanish got free at time 445
+Tarannum is being served at time 445
+Tulayb got free at time 446
+Inayat is being served at time 446
+Inayat is being served at time 447
+Aqil got free at time 448
+Raashid is being served at time 448
+Bakir has arrived and entered in the queue at time 449
+Raashid is being served at time 450
+Hamood got free at time 451
+Hadi is being served at time 451
+Talib got free at time 452
+Kaamil is being served at time 452
+Kaamil is being served at time 453
+Kaamil is being served at time 454
+Kaamil is being served at time 455
+Kaamil is being served at time 456
+Nadir has arrived and entered in the queue at time 457
+Kaamil is being served at time 458
+Raashid has arrived and entered in the queue at time 459
+Kaamil is being served at time 460
+Kaamil is being served at time 461
+Kaamil is being served at time 462
+Muammar has arrived and entered in the queue at time 463
+Kaamil is being served at time 464
+Kaamil is being served at time 465
+Sahir got free at time 466
+Muslim is being served at time 466
+Sabir has arrived and entered in the queue at time 467
+Faqir got free at time 468
+Asil is being served at time 468
+Hamza has arrived and entered in the queue at time 469
+Rayyan got free at time 470
+Bakir is being served at time 470
+Bakir is being served at time 471
+Nadir got free at time 472
+Raashid is being served at time 472
+Muammar got free at time 473
+Sabir is being served at time 473
+Hadrami has arrived and entered in the queue at time 474
+Sabir is being served at time 475
+Sabir is being served at time 476
+Sameer has arrived and entered in the queue at time 477
+Nihal has arrived and entered in the queue at time 478
+Intizar has arrived and entered in the queue at time 479
+Sabir is being served at time 480
+Sabir is being served at time 481
+Hamdi has arrived and entered in the queue at time 482
+Hamza got free at time 483
+Hadrami is being served at time 483
+Hanash has arrived and entered in the queue at time 484
+Hadrami is being served at time 485
+Raashid has arrived and entered in the queue at time 486
+Hadrami is being served at time 487
+Nithar has arrived and entered in the queue at time 488
+Saffar has arrived and entered in the queue at time 489
+Hadrami is being served at time 490
+Sameer got free at time 491
+Nihal is being served at time 491
+Nihal is being served at time 492
+Nihal is being served at time 493
+Bandar has arrived and entered in the queue at time 494
+Anjuman has arrived and entered in the queue at time 495
+Nihal is being served at time 496
+Nihal is being served at time 497
+Intizar got free at time 498
+Hamdi is being served at time 498
+Hanash got free at time 499
+Raashid is being served at time 499
+Raashid is being served at time 500
+Nithar got free at time 501
+Saffar is being served at time 501
+Saffar is being served at time 502
+Saffar is being served at time 503
+Bandar got free at time 504
+Anjuman is being served at time 504
+Anjuman is being served at time 505
+Anjuman is being served at time 506
+Aseel has arrived and entered in the queue at time 507
+Fawzan has arrived and entered in the queue at time 508
+Anjuman is being served at time 509
+Saariyah has arrived and entered in the queue at time 510
+Aseel got free at time 511
+Fawzan is being served at time 511
+Juthamah has arrived and entered in the queue at time 512
+Rafeeq has arrived and entered in the queue at time 513
+Fawzan is being served at time 514
+Fawzan is being served at time 515
+Guda has arrived and entered in the queue at time 516
+Fawzan is being served at time 517
+Saariyah got free at time 518
+Juthamah is being served at time 518
+Juthamah is being served at time 519
+Dhareef has arrived and entered in the queue at time 520
+Juthamah is being served at time 521
+Juthamah is being served at time 522
+Khunays has arrived and entered in the queue at time 523
+Rafeeq got free at time 524
+Guda is being served at time 524
+Guda is being served at time 525
+Guda is being served at time 526
+Sadik has arrived and entered in the queue at time 527
+Yazeed has arrived and entered in the queue at time 528
+Gabr has arrived and entered in the queue at time 529
+Marwan has arrived and entered in the queue at time 530
+Dhareef got free at time 531
+Khunays is being served at time 531
+Mutawassit has arrived and entered in the queue at time 532
+Khunays is being served at time 533
+Gul has arrived and entered in the queue at time 534
+Khunays is being served at time 535
+Khunays is being served at time 536
+Khunays is being served at time 537
+Khunays is being served at time 538
+Sadik got free at time 539
+Yazeed is being served at time 539
+Kateb has arrived and entered in the queue at time 540
+Mutasim has arrived and entered in the queue at time 541
+Liyaqah has arrived and entered in the queue at time 542
+Sawa has arrived and entered in the queue at time 543
+Gabr got free at time 544
+Marwan is being served at time 544
+Hanif has arrived and entered in the queue at time 545
+Marwan is being served at time 546
+Qaim has arrived and entered in the queue at time 547
+Mutawassit got free at time 548
+Gul is being served at time 548
+Gul is being served at time 549
+Yahya has arrived and entered in the queue at time 550
+Kateb got free at time 551
+Mutasim is being served at time 551
+Mutasim is being served at time 552
+Liyaqah got free at time 553
+Sawa is being served at time 553
+Jibril has arrived and entered in the queue at time 554
+Sawa is being served at time 555
+Azhar has arrived and entered in the queue at time 556
+Bilaal has arrived and entered in the queue at time 557
+Muhannad has arrived and entered in the queue at time 558
+Sawa is being served at time 559
+Dabbah has arrived and entered in the queue at time 560
+Falah has arrived and entered in the queue at time 561
+Sawa is being served at time 562
+Dhaahir has arrived and entered in the queue at time 563
+Kaalim has arrived and entered in the queue at time 564
+Sawa is being served at time 565
+Sawa is being served at time 566
+Sawa is being served at time 567
+Hibah has arrived and entered in the queue at time 568
+Fawad has arrived and entered in the queue at time 569
+Hanif got free at time 570
